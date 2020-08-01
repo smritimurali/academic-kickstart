@@ -32,12 +32,13 @@ date_format = "Jan 2006"
     title = "Oracle"
     company = "Applications Engineer"
     location = "Bangalore, India"
+    company_url = ""
     date_start = "2017-07-01"
     date_end = "2019-12-05"
     description = """Worked in the Fusion Order Management Team.
-     Developed package for autobooking in PL/SQL.
-     Developed functionality to provide data for BI reports using Groovy.
-    Worked on access control by creating roles with different    functionality  and levels of data access.
+     * Developed package for autobooking in PL/SQL.
+     * Developed functionality to provide data for BI reports using Groovy.
+    * Worked on access control by creating roles with different    functionality  and levels of data access.
   """
     [[experience]]
       title = "Summer Analyst"
