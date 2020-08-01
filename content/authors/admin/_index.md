@@ -30,7 +30,7 @@ education:
   courses:
   - course: MS in Computer Science
     institution: University of Massachusetts, Amherst
-    year: 2020
+    year: 2021
   - course: B.Tech in Computer Science
     institution: National Institute of Technology, Karnataka
     year: 2017
@@ -52,7 +52,7 @@ social:
   link: https://in.pinterest.com/msmriti95/painting/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/smritim
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/gcushen

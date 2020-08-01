@@ -9,7 +9,6 @@ title = "Other Interests"
 subtitle = """
 * Art - A grade in Intermediate Drawing Examination held by government of India for drawing and painting.
 * Yoga Teacher Training Course - Completed a 200 hours Yoga Teacher Training Course at <a href='https://www.a1000yoga.com/' > a1000yoga Academy</a>  a Yoga Alliance certified yoga school.
-certificate_url = "files/yoga.png"
 
 
 
