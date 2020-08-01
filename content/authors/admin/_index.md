@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Write something.
 
 interests:
 - Artificial Intelligence
@@ -43,23 +43,26 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/smriti-murali/
+- icon: pinterest
+  icon_pack: fab
+  link: https://in.pinterest.com/msmriti95/painting/
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
+#- icon: github
+#  icon_pack: fab
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+#email: "m.smriti.95@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -68,6 +71,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+ I am a MS in computer science student at Umass, Amherst with a focus on data science and distributed systems.
+ I am interested in using data science to build large-scale systems  which have a positive impact on society.
+ I am eager to learn how to convert raw data into insights and tools which can be used in large-scale commercial platforms.
+       Prior to my masters, I used to work at Oracle as an applications engineer
+ in the fusion order management team and at Goldman Sachs as a summer analyst.
+ In my free time I like to paint, practice yoga, trek and travel.

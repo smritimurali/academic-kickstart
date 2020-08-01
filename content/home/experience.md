@@ -18,26 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
+  title = "Data Science for Common Good Fellow"
+  company = "Umass Center for Data Science"
+  company_url = "https://ds.cs.umass.edu/"
+  location = "Amherst, MA"
+  date_start = "2020-05-01"
+  date_end = "2020-07-06"
+  description = "Working on lalal"
 
-  * Analysing
-  * Modelling
-  * Deploying
-  """
   [[experience]]
-    title = "CEO"
-    company = "GenCoin"
+    title = "Oracle"
+    company = "Applications Engineer"
     company_url = ""
-    location = "California"
-    date_start = "2017-01-01"
-    date_end = ""
+    location = "Bangalore, India"
+    date_start = "2017-07-01"
+    date_end = "2019-12-05"
     description = """
     Responsibilities include:
 
@@ -46,10 +41,10 @@ date_format = "Jan 2006"
     * Deploying
     """
     [[experience]]
-      title = "CEO"
-      company = "GenCoin"
+      title = "Summer Analyst"
+      company = "Goldman Sachs"
       company_url = ""
-      location = "California"
+      location = "Bangalore, India"
       date_start = "2017-01-01"
       date_end = ""
       description = """
@@ -61,10 +56,10 @@ date_format = "Jan 2006"
       """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Summer Research Intern"
+  company = "Indian Institute of Science, IISc"
   company_url = ""
-  location = "California"
+  location = "Bangalore, India"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
