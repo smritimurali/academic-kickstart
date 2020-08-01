@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Professional Experience"
 subtitle = ""
 
 # Date format for experience
@@ -24,35 +24,29 @@ date_format = "Jan 2006"
   location = "Amherst, MA"
   date_start = "2020-05-01"
   date_end = "2020-07-06"
-  description = "Working on lalal"
+  description = """ Working on lalal
+ fgfgfg
+  """
 
   [[experience]]
     title = "Oracle"
     company = "Applications Engineer"
-    company_url = ""
     location = "Bangalore, India"
     date_start = "2017-07-01"
     date_end = "2019-12-05"
-    description = """
-    Responsibilities include:
-
-    * Analysing
-    * Modelling
-    * Deploying
-    """
+    description = """Worked in the Fusion Order Management Team.
+     Developed package for autobooking in PL/SQL.
+     Developed functionality to provide data for BI reports using Groovy.
+    Worked on access control by creating roles with different    functionality  and levels of data access.
+  """
     [[experience]]
       title = "Summer Analyst"
       company = "Goldman Sachs"
       company_url = ""
       location = "Bangalore, India"
-      date_start = "2017-01-01"
-      date_end = ""
-      description = """
-      Responsibilities include:
-
-      * Analysing
-      * Modelling
-      * Deploying
+      date_start = "2016-05-01"
+      date_end = "2016-06-30"
+      description = """Worked on a vendor e-invoice portal that enables a vendor to register and view invoices. Its aim was to automate the vendor registration process and remove manual inquiry of the status of invoices. Worked on developing the workflow to automate the vendor registration process and developed the portal used to view invoices.
       """
 
 [[experience]]
@@ -60,8 +54,27 @@ date_format = "Jan 2006"
   company = "Indian Institute of Science, IISc"
   company_url = ""
   location = "Bangalore, India"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2015-05-01"
+  date_end = "2015-06-30"
+  description = """Worked under Dr. Vinod Sharma, to analyse the impact of different queuing algorithms on packet drops and network throughput.
+"""
+[[experience]]
+  title = "Intern"
+  company = "DataPhi Labs"
+  company_url = ""
+  location = "Surathkal, India"
+  date_start = "2015-03-01"
+  date_end = "2015-04-30"
+  description = """Analysed data collected from the GOQii band (fitness band) to identify what level of interaction by the trainers helps the wearer of the band perform best. Used iPython, Pandas and sklearn.
+"""
+[[experience]]
+  title = "Web Developer"
+  company = "Waverr"
+  company_url = ""
+  location = "Surathkal, India"
+  date_start = "2015-01-01"
+  date_end = "2015-03-30"
+  description = """Worked at a college start up which aimed at connecting customers to deals offered in restaurants. Developed the website using Bootstrap, PHP and MySQL.
+"""
 
 +++

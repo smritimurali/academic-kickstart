@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Implementation and Evaluation of Proportional Integral Controller Enhanced (PIE) Algorithm in ns-3"
-authors: [Shravya K. S, Smriti  Murali, Mohit P Tahiliani ]
-date: 2016-06-6
+title: "Contiki as RTOS A look at Contiki’s Flash File System – Coffee"
+authors: [Smriti Murali , V. Krishnapriya , K. Chandrasekaran3]
+date: 2016-03-02
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-07-31T21:35:27-04:00
+publishDate: 2020-07-31T23:00:05-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +16,19 @@ publishDate: 2020-07-31T21:35:27-04:00
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "WNS3 '16: Proceedings of the Workshop on ns-3"
+publication: "5th International Engineering Symposium - IES 2016"
 publication_short: ""
 
-abstract: "This paper proposes a new ns-3 model and presents the evaluation results for Proportional Integral controller Enhanced (PIE), a recently designed Active Queue Management (AQM) mechanism to address the problem of bufferbloat. The problem of bufferbloat arises due to the presence of large unmanaged buffers in routers. This leads to high queuing latency and significantly degrades the performance of timesensitive and interactive traffic. AQM mechanisms that aim to address the problem of bufferbloat try to achieve an optimal trade-off between high link utilization and low mean queue length. PIE is a lightweight AQM mechanism that tries to achieve the same. To our knowledge, ns-3 network simulator does not have a model for simulating PIE. Hence, in this paper, we implement a ns-3 model for PIE, and show that the results obtained from it are in line with those obtained from the ns-2 model of PIE, implemented by its authors."
+abstract: "The success of IoT (Internet of Things) depends upon the inclusion of many
+cross platform heterogeneous devices which have severe memory, energy, processing
+power and communication bandwidth constraints. A real-time application is expected to
+process data instantly without buffering delays or jitter. Contiki, an open source OS,
+provides only partial support for such operations. In this paper, we examine how Coffee
+is better than CFS-POSFIX for real-time operations and validate it by running a
+simulation on Cooja. We further explore Coffee’s prominent features such as garbage
+collection, wear levelling, etc. We suggest improvements to reduce the unpredictable
+delays caused by long tasks like file extension and garbage collection. We then examine
+how latencies in file operations can be reduced to enhance its real time performance."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,7 +45,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://dl.acm.org/doi/10.1145/2915371.2915385
+url_pdf:
 url_code:
 url_dataset:
 url_poster:

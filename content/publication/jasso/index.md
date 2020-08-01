@@ -1,9 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Jasso"
-authors: []
-date: 2020-07-31T21:35:41-04:00
+
+title: "Real time scheduling in Contiki"
+authors: [V Krishnapriya, Smriti Murali and K Chandrasekaran]
+date: 2016-03-04
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,10 +17,19 @@ publishDate: 2020-07-31T21:35:41-04:00
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "5th International Engineering Symposium - IES 2016"
 publication_short: ""
 
-abstract: ""
+abstract: "The fast-paced nature of data in Internet of Things (IoT) applications
+demands that the operating systems be able to efficiently schedule tasks with no delays.
+Immediate processing of data implies there must not be any violation of hard deadlines.
+Contiki, an OS designed for IoT, does not however provide full support for real-time
+operations. The scheduler and timer modules of this OS are studied, and we compare the
+performances of the native scheduling algorithm and purely pre-emptive scheduling of
+tasks. Experiments are run on Cooja, a simulator provided for Contiki to run on desktop
+systems. We also take a look at the scheduling algorithms employed by other operating
+systems employed for IoT.
+"
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -46,7 +56,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""

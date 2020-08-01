@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "My Project Name"
-summary: "yoooo I created a project"
+title: "User Demography Based Travel Recommender"
+summary: "Designed a Hybrid recommender system which aims at recommending travel destinations to users based on their demographic profile."
 authors: []
-tags: []
+tags: [Machine learning]
 categories: []
 date: 2020-07-31T20:28:14-04:00
 

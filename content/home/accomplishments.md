@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Online Courses"
 subtitle = ""
 
 # Date format
@@ -21,41 +21,33 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  title = "Deep Learning Specialization"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/KPLFBM4PE3RH"
+  date_start = "2020-05-01"
   date_end = ""
   description = ""
 
   [[item]]
     organization = "Coursera"
     organization_url = "https://www.coursera.org"
-    title = "Neural Networks and Deep Learning"
+    title = "Structuring Machine Learning Projects"
     url = ""
-    certificate_url = "https://www.coursera.org"
-    date_start = "2018-10-01"
+    certificate_url = "https://www.coursera.org/account/accomplishments/certificate/T3B7D9ZUJNDL"
+    date_start = "2020-05-01"
     date_end = ""
     description = ""
 
     [[item]]
-      organization = "Coursera"
+      organization = "IBM"
       organization_url = "https://www.coursera.org"
-      title = "Neural Networks and Deep Learning"
+      title = "IBM Data Science Professional Specialization"
       url = ""
-      certificate_url = "https://www.coursera.org"
+      certificate_url = "https://www.youracclaim.com/badges/8dfb48e9-bd55-4adc-8368-8adc5a5e8f9d/linked_in_profile"
       date_start = "2018-10-01"
       date_end = ""
       description = ""
 
-      [[item]]
-        organization = "Coursera"
-        organization_url = "https://www.coursera.org"
-        title = "Neural Networks and Deep Learning"
-        url = ""
-        certificate_url = "https://www.coursera.org"
-        date_start = "2018-10-01"
-        date_end = ""
-        description = ""
+
 
 +++
