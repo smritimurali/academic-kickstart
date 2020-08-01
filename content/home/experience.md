@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Professional Experience"
 subtitle = ""
@@ -24,8 +24,7 @@ date_format = "Jan 2006"
   location = "Amherst, MA"
   date_start = "2020-05-01"
   date_end = "2020-07-06"
-  description = """ Working on lalal
- fgfgfg
+  description = """ Working with VA Boston Healthcare System on the Multiple Myeloma Research Foundation (MMRF) dataset.
   """
 
   [[experience]]
@@ -38,7 +37,7 @@ date_format = "Jan 2006"
     description = """Worked in the Fusion Order Management Team.
      * Developed package for autobooking in PL/SQL.
      * Developed functionality to provide data for BI reports using Groovy.
-    * Worked on access control by creating roles with different    functionality  and levels of data access.
+     *  Worked on access control by creating roles with different    functionality  and levels of data access.
   """
     [[experience]]
       title = "Summer Analyst"
@@ -49,6 +48,8 @@ date_format = "Jan 2006"
       date_end = "2016-06-30"
       description = """Worked on a vendor e-invoice portal that enables a vendor to register and view invoices. Its aim was to automate the vendor registration process and remove manual inquiry of the status of invoices. Worked on developing the workflow to automate the vendor registration process and developed the portal used to view invoices.
       """
+      certificate_url = "files/gs.png"
+
 
 [[experience]]
   title = "Summer Research Intern"
@@ -67,6 +68,8 @@ date_format = "Jan 2006"
   date_start = "2015-03-01"
   date_end = "2015-04-30"
   description = """Analysed data collected from the GOQii band (fitness band) to identify what level of interaction by the trainers helps the wearer of the band perform best. Used iPython, Pandas and sklearn.
+  certificate_url = "files/dataphi.png"
+
 """
 [[experience]]
   title = "Web Developer"

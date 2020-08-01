@@ -21,9 +21,10 @@ organizations:
 bio: Write something.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Data Science
+- Software Engineering
+- Common Good Projects
 
 education:
   courses:

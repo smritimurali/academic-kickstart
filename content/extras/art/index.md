@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Art"
+title: ""
 summary: ""
 authors: []
 tags: []
@@ -9,13 +9,13 @@ categories: []
 date: 2020-07-31T22:30:37-04:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "#"
+external_link: "#extras"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Art"
+  caption: ""
   focal_point: "Smart"
   preview_only: false
 

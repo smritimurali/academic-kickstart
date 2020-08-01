@@ -3,13 +3,15 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 100  # Order that this section will appear.
 
 title = "Other Interests"
 subtitle = """
-* Art
-* yoga
-* etc
+* Art - A grade in Intermediate Drawing Examination held by government of India for drawing and painting.
+* Yoga Teacher Training Course - Completed a 200 hours Yoga Teacher Training Course at <a href='https://www.a1000yoga.com/' > a1000yoga Academy</a>  a Yoga Alliance certified yoga school.
+certificate_url = "files/yoga.png"
+
+
 
 
 """
@@ -31,13 +33,13 @@ subtitle = """
      name = "All"
      tag = "*"
 
-  [[content.filter_button]]
-     name = "Deep Learning"
-     tag = "Deep Learning"
+  #[[content.filter_button]]
+  #   name = "Deep Learning"
+  #   tag = "Deep Learning"
 
-   [[content.filter_button]]
-     name = "Other"
-     tag = "Demo"
+  # [[content.filter_button]]
+  #   name = "Other"
+  #   tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

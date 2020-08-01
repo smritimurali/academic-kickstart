@@ -3,7 +3,7 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
 title = "Volunteer Experience"
 subtitle = ""
@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   organization_url = "https://www.cry.org/"
   title = "Intern"
   url = ""
-  certificate_url = "add"
+  certificate_url = "files/cry.png"
   date_start = "2017-05-01"
   date_end = "2017-06-30"
   description = "My work involved writing blog posts on how CRY has impacted lives at the grassroots. I wrote article on how a girl became a child rights ambassador in a child collective, how school enrollment campaign work and reports on child labor and marriages. I also worked on a social media campaign for a bike rally held against Child Labor."
@@ -50,7 +50,7 @@ date_format = "Jan 2006"
     organization_url = ""
     title = "Volunteer"
     url = ""
-    certificate_url = ""
+    certificate_url = "genesis.png"
     date_start = "2018-10-01"
     date_end = ""
     description = "Worked with children in a government school to improve their communication (spoken English), maths and art skills."
