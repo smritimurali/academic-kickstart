@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   location = "Amherst, MA"
   date_start = "2020-05-01"
   date_end = ""
-  description = """
-  Working with VA Boston Healthcare System on the Multiple Myeloma Research Foundation (MMRF) dataset.
+  description = """<p align="justify">
+  Working with VA Boston Healthcare System on the Multiple Myeloma Research Foundation (MMRF) dataset.</p>
   """
 [[experience]]
     title = "Applications Engineer "
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
     location = "Bangalore, India"
     date_start = "2017-07-01"
     date_end = "2019-12-05"
-    description = """ Worked in the Order Management Team. Developed package for autobooking in PL/SQL. Developed functionality to provide data for BI reports using Groovy. Worked on access control by creating roles with different functionality  and levels of data access.
+    description = """ <p align="justify">Worked in the Order Management Team. Developed package for autobooking in PL/SQL. Developed functionality to provide data for BI reports using Groovy. Worked on access control by creating roles with different functionality  and levels of data access.</p>
     """
 
 
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
       date_start = "2016-05-01"
       date_end = "2016-06-30"
 
-      description = """ Worked on a vendor e-invoice portal that enables a vendor to register and view invoices.Its aim was to automate the vendor registration process and remove manual inquiry of the status of invoices. Worked on developing the workflow to automate the vendor registration process and developed the portal used to view invoices.
+      description = """ <p align="justify"> Worked on a vendor e-invoice portal that enables a vendor to register and view invoices. Its aim was to automate the vendor registration process and remove manual inquiry of the status of invoices. Worked on developing the workflow to automate the vendor registration process and developed the portal used to view invoices.</p>
 """
 
 
@@ -57,8 +57,8 @@ date_format = "Jan 2006"
   location = "Bangalore, India"
   date_start = "2015-05-01"
   date_end = "2015-06-30"
-  description = """
-  Analyse the impact of different queuing algorithms on packet drops and network throughput using C++.
+  description = """<p align="justify">
+  Analysed the impact of different queuing algorithms on packet drops and network throughput using C++.</p>
 """
 
 
@@ -69,7 +69,7 @@ date_format = "Jan 2006"
   location = "Surathkal, India"
   date_start = "2015-03-01"
   date_end = "2015-04-30"
-  description = """ Analysed data collected from the GOQii band (fitness band) to identify what level of interaction by the trainers helps the wearer of the band perform best. Used iPython, Pandas and sklearn.
+  description = """ <p align="justify">  Analysed data collected from the GOQii band (fitness band) to identify what level of interaction by the trainers helps the wearer of the band perform best. Used iPython, Pandas and sklearn.</p>
 """
 
 
@@ -80,8 +80,9 @@ date_format = "Jan 2006"
   location = "Surathkal, India"
   date_start = "2015-01-01"
   date_end = "2015-03-30"
-  description = """
+  description = """<p align="justify">
   Worked at a college start up which aimed at connecting customers to deals offered in restaurants. Developed the website using Bootstrap, PHP and MySQL.
+  </p>
 """
 
 
