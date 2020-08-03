@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Artists' Forum, National Institute of Technology, Karnataka"
-  organization_url = "https://www.facebook.com/afnitk"
+  organization_url = "https://www.facebook.com/afnitk/ "
   title = "Executive Member"
   url = ""
   certificate_url = ""
@@ -28,12 +28,11 @@ date_format = "Jan 2006"
   date_end = "2017-05-01"
   description = """
    Participated and conducted different art and craft workshops.
-   Organize beach festival with kite making and sand art workshops and other art stalls.
+   Organized beach festival with kite making and sand art workshops and other art stalls.
    Organized annual college art exhibition.
-   Member of creative committee responsible for deciding theme and decorating college during the tech and cultural festivals.  
+   Member of creative committee responsible for deciding theme and decorating college during the technical and cultural festivals.  
+    """
 
-
-  """
 
 [[item]]
   organization = "Child Rights and You"
@@ -45,21 +44,20 @@ date_format = "Jan 2006"
   date_end = "2017-06-30"
   description = """
   My work involved writing blog posts on how CRY has impacted lives at the grassroots.
-  I wrote articles on how a girl became a child rights ambassador in a child collective, how school enrollment campaign work and reports on child labor and marriages.
+  I wrote articles on how a girl became a child rights ambassador in a child collective, how school enrollment campaigns work and about child labor and marriages.
   I also worked on a social media campaign for a bike rally held against Child Labor.
   """
 
+
   [[item]]
     organization = "Genesis, National Institute of Technology, Karnataka"
-    organization_url = ""
-    title = "Volunteer"
+    organization_url = " "
+    title = "Volunteer "
     url = ""
     certificate_url = "files/genesis.png"
     date_start = "2013-07-31"
     date_end = "2014-05-01"
-    description = """
-    Worked with children in a Kannada medium government school to improve their communication skills especially spoken English.We also took classes for teaching children basic mathematics and conducted art and craft workshops for them.
-
+    description = """ Worked with children in a Kannada medium government school to improve their communication skills especially spoken English.We also took classes for teaching children basic mathematics and conducted art and craft workshops for them.
     """
 
 

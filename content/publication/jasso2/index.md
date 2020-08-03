@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Contiki as RTOS A look at Contiki’s Flash File System – Coffee"
-authors: [Smriti Murali , V. Krishnapriya , K. Chandrasekaran3]
+authors: [Smriti Murali , V. Krishnapriya , K. Chandrasekaran]
 date: 2016-03-02
 doi: ""
 

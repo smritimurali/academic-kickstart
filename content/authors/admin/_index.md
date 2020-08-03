@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:smritimurali@umass.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/smriti-murali/
@@ -73,9 +73,9 @@ user_groups:
 ---
 
 
- I am a MS in computer science student at Umass, Amherst with a focus on data science and distributed systems.
+ I am a MS in computer science student at University of Massachusetts, Amherst with a focus on data science.
  I am interested in using data science to build large-scale systems  which have a positive impact on society.
  I am eager to learn how to convert raw data into insights and tools which can be used in large-scale commercial platforms.
-       Prior to my masters, I used to work at Oracle as an applications engineer
+       Prior to my masters, I worked at Oracle as an applications engineer
  in the fusion order management team and at Goldman Sachs as a summer analyst.
  In my free time I like to paint, practice yoga, trek and travel.

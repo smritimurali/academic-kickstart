@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Data Science for Common Good Fellow"
-  company = "Umass Center for Data Science"
+  company = "UMass Center for Data Science"
   company_url = "https://ds.cs.umass.edu/"
   location = "Amherst, MA"
   date_start = "2020-05-01"
@@ -27,52 +27,51 @@ date_format = "Jan 2006"
   description = """
   Working with VA Boston Healthcare System on the Multiple Myeloma Research Foundation (MMRF) dataset.
   """
-
-  [[experience]]
-    title = "Oracle"
-    company = "Applications Engineer"
+[[experience]]
+    title = "Applications Engineer "
+    company = "Oracle"
+    company_url = "https://www.oracle.com/index.html"
     location = "Bangalore, India"
-    company_url = ""
     date_start = "2017-07-01"
     date_end = "2019-12-05"
-    description = """
-    Worked in the Fusion Order Management Team. Developed package for autobooking in PL/SQL. Developed functionality to provide data for BI reports using Groovy. Worked on access control by creating roles with different functionality  and levels of data access.
-  """
+    description = """ Worked in the Order Management Team. Developed package for autobooking in PL/SQL. Developed functionality to provide data for BI reports using Groovy. Worked on access control by creating roles with different functionality  and levels of data access.
+    """
+
+
     [[experience]]
       title = "Summer Analyst"
-      company = "Goldman Sachs"
-      company_url = ""
+      company = "Goldman Sachs "
+      company_url = "https://www.goldmansachs.com/"
       location = "Bangalore, India"
       date_start = "2016-05-01"
       date_end = "2016-06-30"
 
-      description = """
-      Worked on a vendor e-invoice portal that enables a vendor to register and view invoices.Its aim was to automate the vendor registration process and remove manual inquiry of the status of invoices. Worked on developing the workflow to automate the vendor registration process and developed the portal used to view invoices.
+      description = """ Worked on a vendor e-invoice portal that enables a vendor to register and view invoices.Its aim was to automate the vendor registration process and remove manual inquiry of the status of invoices. Worked on developing the workflow to automate the vendor registration process and developed the portal used to view invoices.
 """
 
 
 [[experience]]
   title = "Summer Research Intern"
   company = "Indian Institute of Science, IISc"
-  company_url = ""
+  company_url = "https://www.iisc.ac.in/"
   location = "Bangalore, India"
   date_start = "2015-05-01"
   date_end = "2015-06-30"
   description = """
-  Worked under Dr. Vinod Sharma, to analyse the impact of different queuing algorithms on packet drops and network throughput.
+  Analyse the impact of different queuing algorithms on packet drops and network throughput using C++.
 """
+
+
 [[experience]]
   title = "Intern"
   company = "DataPhi Labs"
-  company_url = ""
+  company_url = "http://dataphilabs.com/"
   location = "Surathkal, India"
   date_start = "2015-03-01"
   date_end = "2015-04-30"
-  description = """
-  Analysed data collected from the GOQii band (fitness band) to identify what level of interaction by the trainers helps the wearer of the band perform best. Used iPython, Pandas and sklearn.
-
-
+  description = """ Analysed data collected from the GOQii band (fitness band) to identify what level of interaction by the trainers helps the wearer of the band perform best. Used iPython, Pandas and sklearn.
 """
+
 
 [[experience]]
   title = "Web Developer"

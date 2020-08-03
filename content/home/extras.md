@@ -8,7 +8,9 @@ weight = 100  # Order that this section will appear.
 title = "Other Interests"
 subtitle = """
 * Art - A grade in Intermediate Drawing Examination held by government of India for drawing and painting.
+<a href="https://www.a1000yoga.com/"> See Certificate </a>
 * Yoga Teacher Training Course - Completed a 200 hours Yoga Teacher Training Course at <a href='https://www.a1000yoga.com/' > a1000yoga Academy</a>  a Yoga Alliance certified yoga school.
+<a href="https://www.a1000yoga.com/"> See Certificate </a>
 
 
 

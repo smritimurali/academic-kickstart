@@ -36,7 +36,7 @@ date_format = "Jan 2006"
     certificate_url = "files/yes.png"
     date_start = "2017-05-01"
     date_end = ""
-    description = "Program to develop socially conscious youth leadership and improve communication of social impact organizations. It is an intensive 2-month program with training programs and an internship at a nonprofit"
+    description = "Program to develop socially conscious youth leadership and improve communication of social impact organizations. It is an intensive 2-month program with training programs and an internship at a NGO."
 
     [[item]]
       organization = "Kumamoto University, Japan"
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
       certificate_url = "files/jasso.png"
       date_start = "2016-03-02"
       date_end = ""
-      description = "Scholarship for International exchange students. I participated in the 5th International Engineering Symposium (IES2016) & 2nd Spring Internship Program (SIP2016) held at Kumamoto University, Japan. Presented a paper on the file system Coffee used in Contiki to support IoT devices"
+      description = "Scholarship for International exchange students. I participated in the 5th International Engineering Symposium (IES2016) & 2nd Spring Internship Program (SIP2016) held at Kumamoto University, Japan. Presented a paper on the file system Coffee used in Contiki to support IoT devices."
 
 
 
