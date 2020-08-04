@@ -50,17 +50,17 @@ social:
 - icon: pinterest
   icon_pack: fab
   link: https://in.pinterest.com/msmriti95/painting/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/smritim
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/smritim
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-#- icon: cv
-#  icon_pack: fas
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: fas
+  link: 'static/files/cv.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: "m.smriti.95@gmail.com"
@@ -75,7 +75,7 @@ user_groups:
 <p align="justify">
  I am a MS in computer science student at University of Massachusetts, Amherst with a focus on data science.
  I am interested in using data science to build large-scale systems  which have a positive impact on society.
- I am eager to learn how to convert raw data into insights and tools which can be used in large-scale commercial platforms.
+ I am eager to learn how to convert raw data into insights and tools which can be used in large-scale platforms.
        Prior to my masters, I worked at Oracle as an applications engineer
  in the fusion order management team and at Goldman Sachs as a summer analyst.
  In my free time I like to paint, practice yoga, trek and travel. </p>

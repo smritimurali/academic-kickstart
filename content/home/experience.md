@@ -25,7 +25,12 @@ date_format = "Jan 2006"
   date_start = "2020-05-01"
   date_end = ""
   description = """<p align="justify">
-  Working with VA Boston Healthcare System on the Multiple Myeloma Research Foundation (MMRF) dataset.</p>
+  <ul>
+  <li>Worked with VA Boston Healthcare System on the Multiple Myeloma Research Foundation (MMRF) dataset.
+  </li>
+   <li>Build models using deep learning, ensemble methods and survival analysis to identify when a patient will get progressive Multiple Myloma (cancer).
+   </li>
+  </p>
   """
 [[experience]]
     title = "Applications Engineer "
@@ -34,7 +39,27 @@ date_format = "Jan 2006"
     location = "Bangalore, India"
     date_start = "2017-07-01"
     date_end = "2019-12-05"
-    description = """ <p align="justify">Worked in the Order Management Team. Developed package for autobooking in PL/SQL. Developed functionality to provide data for BI reports using Groovy. Worked on access control by creating roles with different functionality  and levels of data access.</p>
+    description = """ <p align="justify">
+    <ul>
+    <li>
+    Worked in the Order Management Team to help build new functionality in the cloud order management system and integrate it with the existing legacy system.
+    </li>
+    <li>
+    Developed package for auto booking orders which satisfy certain criteria using PL/SQL, to reduce human effort required in the order fulfillment process.
+    </li>
+    <li>
+    Developed functionality to provide data for Business Intelligence reports using Groovy.
+    </li>
+    <Li>
+    Worked on web services to integrate different modules like shipping and invoice.
+    </li>
+    <li>
+    Set up new development environments and wrote scripts to monitor orders and perform data fixes.
+    </li>
+    <li>
+    Worked on access control by creating roles with different functionality  and levels of data access.
+    </li>
+    </p>
     """
 
 
@@ -46,7 +71,12 @@ date_format = "Jan 2006"
       date_start = "2016-05-01"
       date_end = "2016-06-30"
 
-      description = """ <p align="justify"> Worked on a vendor e-invoice portal that enables a vendor to register and view invoices. Its aim was to automate the vendor registration process and remove manual inquiry of the status of invoices. Worked on developing the workflow to automate the vendor registration process and developed the portal used to view invoices.</p>
+      description = """ <p align="justify">
+      <p align="justify">
+      <ul>
+      <li>Worked on a vendor e-invoice portal for vendor to reduce the need for manual inquiry of the status of invoices and increase transparency for vendor. Used SQL,Java, Javascript, HTML and CSS.
+      <li>  
+      Worked on a workflow to automate the vendor registration process using business rules.
 """
 
 
@@ -69,7 +99,13 @@ date_format = "Jan 2006"
   location = "Surathkal, India"
   date_start = "2015-03-01"
   date_end = "2015-04-30"
-  description = """ <p align="justify">  Analysed data collected from the GOQii band (fitness band) to identify what level of interaction by the trainers helps the wearer of the band perform best. Used iPython, Pandas and sklearn.</p>
+  description = """ <p align="justify">
+<ul>
+<li>
+    Analysed data collected from the GOQii fitness band like steps per day, heart rate, goals and details of the messages shared with the trainer like number of messages per day, average response time and sentiment of the messages.
+    <li>
+  Used this data to identify the frequency and level of interaction by the trainers which helped the wearer of the band perform best.
+</p>
 """
 
 
@@ -81,7 +117,10 @@ date_format = "Jan 2006"
   date_start = "2015-01-01"
   date_end = "2015-03-30"
   description = """<p align="justify">
-  Worked at a college start up which aimed at connecting customers to deals offered in restaurants. Developed the website using Bootstrap, PHP and MySQL.
+<ul>
+  <li>Worked at a college start up which aimed at connecting customers to deals offered in restaurants.
+<li>
+  Developed a website for customers using Bootstrap, PHP and MySQL.
   </p>
 """
 

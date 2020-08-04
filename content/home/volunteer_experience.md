@@ -26,11 +26,13 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2013-07-01"
   date_end = "2017-05-01"
-  description = """
-   Participated and conducted different art and craft workshops.
-   Organized beach festival with kite making and sand art workshops and other art stalls.
-   Organized annual college art exhibition.
-   Member of creative committee responsible for deciding theme and decorating college during the technical and cultural festivals.  
+  description = """<p align="center">
+<ul>
+   <li>Participated and conducted different art and craft workshops.</li>
+   <li>Organized beach festival with kite making and sand art workshops and other art stalls.</li>
+   <li>Organized annual college art exhibition.</li>
+   <li>Member of creative committee responsible for deciding theme and decorating college during the technical and cultural festivals.  </li>
+</p>
     """
 
 
@@ -42,22 +44,29 @@ date_format = "Jan 2006"
   certificate_url = "files/cry.png"
   date_start = "2017-05-01"
   date_end = "2017-06-30"
-  description = """
-  My work involved writing blog posts on how CRY has impacted lives at the grassroots.
-  I wrote articles on how a girl became a child rights ambassador in a child collective, how school enrollment campaigns work and about child labor and marriages.
-  I also worked on a social media campaign for a bike rally held against Child Labor.
+  description = """<p align="center">
+  <ul>
+  <li>My work involved writing blog posts on how CRY has impacted lives at the grassroots.</li>
+  <li>I wrote articles on how a girl became a child rights ambassador in a child collective, how school enrollment campaigns work and about child labor and marriages.</li>
+  <li>I also worked on a social media campaign for a bike rally held against Child Labor.</li>
+  </p>
   """
 
 
   [[item]]
     organization = "Genesis, National Institute of Technology, Karnataka"
-    organization_url = " "
-    title = "Volunteer "
+    organization_url = ""
+    title = "Volunteer"
     url = ""
     certificate_url = "files/genesis.png"
     date_start = "2013-07-31"
     date_end = "2014-05-01"
-    description = """ Worked with children in a Kannada medium government school to improve their communication skills especially spoken English.We also took classes for teaching children basic mathematics and conducted art and craft workshops for them.
+    description = """<p align="center">
+    <ul>
+    <li>
+    Worked with children in a Kannada medium government school to improve their communication skills especially spoken English.</li>
+    <li>We also took classes for teaching children basic mathematics and conducted art and craft workshops for them.</li>
+    </p>
     """
 
 

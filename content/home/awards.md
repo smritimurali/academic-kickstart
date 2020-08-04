@@ -26,7 +26,13 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-05-01"
   date_end = ""
-  description = "Program where data scientists collaborate with nonprofit organizations and government agencies working in public health, education, environmental conservation to help solve real-world problems that benefit the common good."
+  description = """
+  <p align="justify">
+  <ul>
+  <li>Program where data scientists collaborate with nonprofit organizations and government agencies working in public health, education, environmental conservation to help solve real-world problems that benefit the common good.
+  </li>
+  </p>
+  """
 
   [[item]]
     organization = "YES Foundation"
@@ -36,7 +42,12 @@ date_format = "Jan 2006"
     certificate_url = "files/yes.png"
     date_start = "2017-05-01"
     date_end = ""
-    description = "Program to develop socially conscious youth leadership and improve communication of social impact organizations. It is an intensive 2-month program with training programs and an internship at a NGO."
+    description = """<p align="justify">
+    <ul>
+    <li>
+    Program to develop socially conscious youth leadership and improve communication of social impact organizations. It is an intensive 2-month program with training programs and an internship at a NGO.
+    </li>
+    </p>"""
 
     [[item]]
       organization = "Kumamoto University, Japan"
@@ -46,7 +57,12 @@ date_format = "Jan 2006"
       certificate_url = "files/jasso.png"
       date_start = "2016-03-02"
       date_end = ""
-      description = "Scholarship for International exchange students. I participated in the 5th International Engineering Symposium (IES2016) & 2nd Spring Internship Program (SIP2016) held at Kumamoto University, Japan. Presented a paper on the file system Coffee used in Contiki to support IoT devices."
+      description = """<p align="justify">
+      <ul>
+      <li>Scholarship for International exchange students. </li>
+      <li>Participated in the 5th International Engineering Symposium (IES2016) & 2nd Spring Internship Program (SIP2016) held at Kumamoto University, Japan.Presented a paper on the file system Coffee used in Contiki to support IoT devices.
+      </li>
+      </p>"""
 
 
 
