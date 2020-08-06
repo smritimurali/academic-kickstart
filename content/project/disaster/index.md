@@ -2,7 +2,19 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "A Crowdsourced Platform for Disaster Relief"
-summary: "The aim of the project was to build a crowd sourced platform to be used during a disaster for the aggregation, dissemination and analysis of important information needed for rescue and relief operations. We designed a multi-platform model in which data in different formats from various sources is first processed using NLP tools and then validated using crowdsourcing validation algorithms."
+summary : "
+<p align='justify'>
+<ul>
+<li align='justify'>
+The aim of the project was to build a crowd sourced platform which can be used during a disaster to aggregation, disseminate and analyze important information needed for coordinating rescue and relief operations.
+<li align='justify'>
+We designed a multi-platform model in which data in different formats from various sources is first processed using NLP tools and then validated using crowdsourcing validation algorithms.
+<li align='justify'>
+Worked on algorithms to best match available resources to those who need it.
+</ul>
+</p>
+"
+
 authors: []
 tags: []
 categories: []

@@ -2,7 +2,16 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Implementation and Evaluation of Proportional Integral Controller Enhanced (PIE) Algorithm in ns-3"
-summary: "Proportional Integral controller Enhanced (PIE) is an Active Queue Management (AQM) mechanism designed to address the problem of bufferbloat. We implemented it as a module for ns-3 and showed that the results obtained from it are in line with those obtained from the ns-2 model of PIE."
+summary: "<p align='justify'>
+<ul>
+<li>
+Proportional Integral controller Enhanced (PIE) is an Active Queue Management (AQM) mechanism designed to address the problem of bufferbloat.
+<li> Implemented it as a module for ns-3 in C++ and showed that the results obtained from it are in line with those obtained from the ns-2 model of PIE.
+</ul>
+</p>
+"
+
+
 authors: []
 tags: []
 categories: []
@@ -27,7 +36,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://www.nsnam.org/docs/models/html/pie.html"
 url_pdf: ""
 url_slides: ""
 url_video: ""

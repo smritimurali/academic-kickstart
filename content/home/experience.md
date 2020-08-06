@@ -88,7 +88,11 @@ date_format = "Jan 2006"
   date_start = "2015-05-01"
   date_end = "2015-06-30"
   description = """<p align="justify">
-  Analysed the impact of different queuing algorithms on packet drops and network throughput using C++.</p>
+  <ul>
+  <li align="justify">
+  Analysed the impact of different queuing algorithms on packet drops and network throughput using C++.
+</ul>
+  </p>
 """
 
 

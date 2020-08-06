@@ -2,7 +2,14 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "User Demography Based Travel Recommender"
-summary: "Designed a Hybrid recommender system which aims at recommending travel destinations to users based on their demographic profile."
+summary: "<p>
+<ul>
+<li align='justify'>Built a hybrid travel recommender system using data collected by a web crawler.
+ <li align='justify'>Used this data to identify nearby locations, similarity between places and predicting which place is suitable for a specific user.
+  <li align='justify'>We predict the demography of people who will be interested in a specific location and use the to provide travel recommendations.
+  <li align='justify'>Made interactive maps that showed the type of tourist attraction in each location and the age, type of travel (solo/family), etc of people visiting these places.
+  </p>
+  "
 authors: []
 tags: [Machine learning]
 categories: []

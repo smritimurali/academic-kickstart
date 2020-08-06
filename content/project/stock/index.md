@@ -2,7 +2,14 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Inter-Sector Stock Analysis"
-summary: "Worked on a Data Science research project which involved Exploratory Analysis on Big Data. The aim was to determine the interdependence of stock prices among companies in different sectors which form a hierarchical dependency graph."
+summary: "<p align='justify'>
+<ul>
+<li align='justify'>
+Worked on a data Science research project which involved exploratory analysis stock market data.
+<li align='justify'>
+ We determined the dependence of stock prices among companies in different sectors which form a hierarchical dependency graph.
+</p>
+"
 authors: []
 tags: []
 categories: []

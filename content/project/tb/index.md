@@ -2,7 +2,20 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Detecting touching bacteria from Ziehl-Neelsen stained sputum smear images"
-summary: "Used the OpenCV library in python to extract the skeletons of the bacterium by applying DIP to enhance contrast and applied mathematical morphology transformations . We then implemented a hierarchy-tree based segmentation algorithm to identify and analyse the branch-points and end-points of the skeletons to distinguish single bacteria from a cluster."
+summary: "
+<p align='justify'>
+<ul>
+<li>
+ Developed a tool using OpenCV Python, to detect touching tuberculosis bacteria from Ziehl-Neelsen stained sputum smear images.
+ <li align='justify'>
+Applied the gradient vector flow snake and Zhang-Suen Thinning Algorithm to extract the skeletons of bacterium from the image.
+<li align='justify'>
+Used OpenCV to enhance contrast and apply mathematical morphology on the image.
+<li align='justify'>
+Implemented a hierarchy-tree based segmentation algorithm to identify and analyze the branch-points and end-points of the skeletons to distinguish single bacteria from a cluster.
+</ul>
+</p>"
+
 authors: []
 tags: []
 categories: []
